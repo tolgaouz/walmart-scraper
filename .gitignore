@@ -1,0 +1,7 @@
+pipenv
+Pipfile
+shell
+*.ipynb
+.vscode
+.ipynb_checkpoints
+telegram_key.txt
